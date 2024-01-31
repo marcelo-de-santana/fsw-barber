@@ -109,3 +109,11 @@ conventional commits
  npm install -D ts-node 
 
 npx prisma db seed  
+
+--------------------------------
+shadcn/ui
+
+npx shadcn-ui@latest init
+
+npx shadcn-ui@latest add card
+npx shadcn-ui@latest add button
