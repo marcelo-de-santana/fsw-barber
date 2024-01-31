@@ -105,3 +105,7 @@ npx prisma studio
 
 --------------------------------
 conventional commits
+
+ npm install -D ts-node 
+
+npx prisma db seed  
