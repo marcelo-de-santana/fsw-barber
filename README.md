@@ -54,7 +54,7 @@ classDiagram
     }
 ```
 
-## ANNOTATION
+## ANOTAÇÕES
 
 https://narrow-beach-a00.notion.site/Primeira-Aula-aa69a34ccda9486ea0d544a804140e68
 
